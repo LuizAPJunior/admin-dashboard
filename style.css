@@ -169,9 +169,8 @@ select {
 
 
 .sidebar nav ul li a:hover{
-  padding-left: .1rem;
-  background-color: 	hsla(199, 50%, 48%, .5);
-  border-radius: 10px;
+  color: #fff;
+  text-decoration: underline;
 }
 
 .sidebar nav ul{
